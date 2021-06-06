@@ -16,6 +16,8 @@ pkg update
 
 pkg upgrade
 
+apt install mutt
+
 pkg install git
 
 git clone https://github.com/DarkHack90/Instabrute
